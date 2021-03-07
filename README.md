@@ -1,8 +1,6 @@
 Katmancoin integration/staging tree
 ================================
 
-http://www.katmancoin.org
-
 Copyright (c) 2009-2014 Bitcoin Developers
 
 Copyright (c) 2011-2014 Litecoin Developers
@@ -33,12 +31,13 @@ There are no illegal or defamatory elements on this page, this is a piece of hum
 twitch.tv/HYPE discord.gg/HYPE
 
 
-What is Nuribet?
----------------
+What is Nuribet? (Sponsor)
+----------------
 Nuribet is a Turkish online prediction company holding the Curaçao eGaming License. It was established in 2020 and registered in Cyprus. In 2019, they experienced significant growth by sponsoring Chelsea FC, Liverpool FC and Tottenham Hotspur briefly. He is currently continuing on Twitch on the HYPE channel on our new chip system, the prediction system.
 You can visit our site for 30% Loss bonus, 50 offspins and more.
 
 https://youtu.be/rxkkD3_A9jM
+
 Today they are playing with katmancoin at low risk.
 
 
