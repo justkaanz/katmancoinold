@@ -18,9 +18,22 @@ Katmancoin is a lite version of Bitcoin using scrypt as a proof-of-work algorith
 The rest is the same as Bitcoin.
  - 20 coins per block
 
+It is an altcoin created for entertainment and humor purposes.
+
 For more information, as well as an immediately useable, binary version of
 the Katmancoin client sofware, see http://www.katmancoin.org.(not yet)
 
+What is KATMAN?
+---------------
+The formation founded by Çağrı Ergün, where his audience gathered.
+There are no illegal or defamatory elements on this page, this is a piece of humor from the discord community called KATMAN. Over and over; Responsibility belongs to our MNT license.
+twitch.tv/HYPE discord.gg/HYPE
+What is Nuribet?
+---------------
+Nuribet is a Turkish online prediction company holding the Curaçao eGaming License. It was established in 2020 and registered in Cyprus. In 2019, they experienced significant growth by sponsoring Chelsea FC, Liverpool FC and Tottenham Hotspur briefly. He is currently continuing on Twitch on the HYPE channel on our new chip system, the prediction system.
+You can visit our site for 30% Loss bonus, 50 offspins and more.
+
+Today they are playing with katmancoin at low risk.
 License
 -------
 
