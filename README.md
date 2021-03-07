@@ -36,6 +36,7 @@ What is Nuribet?
 Nuribet is a Turkish online prediction company holding the Curaçao eGaming License. It was established in 2020 and registered in Cyprus. In 2019, they experienced significant growth by sponsoring Chelsea FC, Liverpool FC and Tottenham Hotspur briefly. He is currently continuing on Twitch on the HYPE channel on our new chip system, the prediction system.
 You can visit our site for 30% Loss bonus, 50 offspins and more.
 
+https://youtu.be/rxkkD3_A9jM
 Today they are playing with katmancoin at low risk.
 License
 -------
