@@ -1090,13 +1090,13 @@ int64 static GetBlockValue(int nHeight, int64 nFees)
     int64 nSubsidy = 20 * COIN;
 
     // Subsidy is cut in half every 840000 blocks, which will occur approximately every 4 years
-    nSubsidy >>= (nHeight / 1260000); // Katmancoin: 1,26 blocks in ~10 years
+    nSubsidy >>= (nHeight / 1260000); // Katmancoin: 1,26 million blocks in ~10 years
 
     return nSubsidy + nFees;
 }
 
-static const int64 nTargetTimespan = 7 * 24 * 60 * 60; // Katmancoin: one week
-static const int64 nTargetSpacing = 5 * 60; // Katmancoin: 5 minutes
+static const int64 nTargetTimespan = 14 * 24 * 60 * 60; // Katmancoin: two week
+static const int64 nTargetSpacing = 10 * 60; // Katmancoin: 10 minutes
 static const int64 nInterval = nTargetTimespan / nTargetSpacing;
 
 //
