@@ -16,7 +16,7 @@ remotes:
 - "url": "https://github.com/justkaanz/katmancoin.git"
   "dir": "katmancoin"
 files:
-- "qt-win32-4.8.4-gitian-r8.zip"
+- "qt-win32-4.8.5-gitian-r8.zip"
 - "boost-win32-1.55.0-gitian-r6.zip"
 - "bitcoin08-deps-win32-gitian-r13.zip"
 script: |
