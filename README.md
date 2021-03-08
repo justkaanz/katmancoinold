@@ -1,6 +1,8 @@
 Katmancoin integration/staging tree
 ================================
 
+http://www.katmancoin.com
+
 Copyright (c) 2009-2014 Bitcoin Developers
 
 Copyright (c) 2011-2014 Litecoin Developers
@@ -12,16 +14,14 @@ What is Katmancoin?
 
 Katmancoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
  - 5 minute block targets
- - subsidy halves in 1,26 million blocks (~6 years)
- - ~126 million total coins
-
-The rest is the same as Bitcoin.
+ - subsidy halves in 420k blocks (~2 years)
+ - ~42 million total coins
  - 20 coins per block
 
 It is an altcoin created for entertainment and humor purposes.
 
 For more information, as well as an immediately useable, binary version of
-the Katmancoin client sofware, see http://www.katmancoin.org.(not yet)
+the Katmancoin client sofware, see http://www.katmancoin.com
 
 
 What is Katman?
