@@ -1225,7 +1225,9 @@ void ThreadDNSAddressSeed()
 
 unsigned int pnSeed[] =
 {
-    0x0401a8c0 //İlk düğüm.. /First node...
+    0x0401a8c0, 0x0f001fac, 0x00001fac, 0xac101fac, 0x0e001fac, 0x0d001fac,
+    0x0c001fac, 0x0b001fac, 0x0a001fac,	0xab101fac, 0xaa0f1fac, 0xa90f1fac,
+    0xa5101fac, 0x00101fac, 0x00101fac, 0x14101fac,	 //katmancoin nodes
 };
 
 void DumpAddresses()
@@ -1237,7 +1239,7 @@ void DumpAddresses()
 
     printf("Flushed %d addresses to peers.dat  %"PRI64d"ms\n",
            addrman.size(), GetTimeMillis() - nStart);
-}
+};
 
 void static ProcessOneShot()
 {
