@@ -1090,20 +1090,20 @@ int64 static GetBlockValue(int nHeight, int64 nFees)
 {
     int64 nSubsidy = 25 * COIN;
 
-    // Subsidy is cut in half every 840000 blocks, which will occur approximately every 4 years
-    nSubsidy >>= (nHeight / 420000); // Katmancoin: 420k blocks in ~2 years
+
+    nSubsidy >>= (nHeight / 420000); 
 
     return nSubsidy + nFees;
 }
 
-static const int64 nTargetTimespan = 7 * 24 * 60 * 60; // Katmancoin: seven days/one week
-static const int64 nTargetSpacing = 5 * 60; // Katmancoin: five minutes
+static const int64 nTargetTimespan = 7 * 24 * 60 * 60; 
+static const int64 nTargetSpacing = 5 * 60; 
 static const int64 nInterval = nTargetTimespan / nTargetSpacing;
 
-//
-// minimum amount of work that could possibly be required nTime after
-// minimum work required was nBase
-//
+
+
+
+
 unsigned int ComputeMinWork(unsigned int nBase, int64 nTime)
 {
     // Testnet has min-difficulty blocks
