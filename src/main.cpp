@@ -1096,8 +1096,8 @@ int64 static GetBlockValue(int nHeight, int64 nFees)
     return nSubsidy + nFees;
 }
 
-static const int64 nTargetTimespan = 3.5 * 24 * 60 * 60; // Katmancoin: three days
-static const int64 nTargetSpacing = 2.5 * 60; // Katmancoin: two minutes
+static const int64 nTargetTimespan = 7 * 24 * 60 * 60; // Katmancoin: seven days/one week
+static const int64 nTargetSpacing = 5 * 60; // Katmancoin: five minutes
 static const int64 nInterval = nTargetTimespan / nTargetSpacing;
 
 //
