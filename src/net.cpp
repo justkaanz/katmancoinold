@@ -1225,11 +1225,7 @@ void ThreadDNSAddressSeed()
 
 unsigned int pnSeed[] =
 {
-    0x0401a8c0, 0x00001fac, 0x01001fac, 0x02001fac, 0x03001fac, 
-    0x04001fac, 0x05001fac, 0x06001fac, 0x07001fac, 0x08001fac,
-    0x09001fac, 0x0a001fac, 0x0b001fac, 0x0c001fac, 0x0d001fac,
-    0x0e001fac, 0x0f001fac, 0x10001fac, 0xe21d0b03, 0xb3ab0803,
-    0x0100007f, //katmancoin nodes
+    0x941a1fac //katmancoin nodes 
 };
 
 void DumpAddresses()
